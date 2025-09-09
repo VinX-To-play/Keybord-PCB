@@ -1,0 +1,13 @@
+TODO:
+Add arduino libary to Kicad: https://github.com/g200kg/kicad-lib-arduino
+
+INFO:
+pinout arduino pro micro: https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMicro16MHzv1.pdf
+PCB design (joystic): https://www.instructables.com/Game-Controller-With-Arduino/
+PCB design (keybord): https://www.instructables.com/Split-Mechanical-Low-Profile-Keyboard-Using-Arduin/
+
+
+
+COMPONENTS:
+ardoino pro micro: https://www.aliexpress.com/item/1005006904610663.html?spm=a2g0o.productlist.main.3.1e7exn0Lxn0LEa&algo_pvid=f7b31065-c7ce-45b1-858c-024a998dcc9a&algo_exp_id=f7b31065-c7ce-45b1-858c-024a998dcc9a-2&pdp_ext_f=%7B%22order%22%3A%22328%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005006904610663%22%2C%22orig_item_id%22%3A%221005008479403166%22%7D&pdp_npi=6%40dis%21SEK%21101.05%219.50%21%21%2174.98%217.05%21%40210384cc17574273254912261e99d7%2112000038671083406%21sea%21SE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab092fb92%3Bm03_new_user%3A-29895%3BpisId%3A5000000174222319&curPageLogUid=LCepoTrmse9E&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006904610663%7C_p_origin_prod%3A1005008479403166#nav-specification
+joystick: https://www.aliexpress.com/item/1005007319498585.html?spm=a2g0o.productlist.main.20.143c6c702YN5h9&aem_p4p_detail=202509090742006231168469461250000510777&algo_pvid=287b8691-414d-47e4-abdc-4f928ee89ae4&algo_exp_id=287b8691-414d-47e4-abdc-4f928ee89ae4-19&pdp_ext_f=%7B%22order%22%3A%228%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21SEK%2122.70%2118.16%21%21%2116.84%2113.47%21%40211b628117574289202195832e1324%2112000040242492246%21sea%21SE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab092fb92%3Bm03_new_user%3A-29895&curPageLogUid=f0syBQLD1JLR&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007319498585%7C_p_origin_prod%3A&search_p4p_id=202509090742006231168469461250000510777_5#nav-description
